@@ -232,3 +232,12 @@ Received Import Request.
 Start importing Assets/Sun_Temple/Scenes/PrefabBuildingOverview.unity using Guid(0341178c4e71bbd4c8d5d119903d6f4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a029a1fb46d032b27c22186da8bd9c65') in 0.004278 seconds 
   Import took 0.010494 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1303.345755 seconds.
+  path: Assets/Scenes/SunTemple_XRRigSetUp.unity
+  artifactKey: Guid(5b11a7b1c46694e87bbb0bc5523c253a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SunTemple_XRRigSetUp.unity using Guid(5b11a7b1c46694e87bbb0bc5523c253a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.013014 seconds  code(4) message(Build asset version error: assets/scenes/suntemple_xrrigsetup.unity in SourceAssetDB has modification time of '2022-02-11T09:30:23Z' while content on disk has modification time of '2022-02-15T09:14:00Z')
+  ERROR: Build asset version error: assets/scenes/suntemple_xrrigsetup.unity in SourceAssetDB has modification time of '2022-02-11T09:30:23Z' while content on disk has modification time of '2022-02-15T09:14:00Z'
+  Import took 0.050396 seconds .
+
