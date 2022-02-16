@@ -264,3 +264,75 @@ Received Import Request.
 Start importing Assets/_Scenes/SunTemple_XRRigSetUp.unity using Guid(5b11a7b1c46694e87bbb0bc5523c253a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b500d9a6bac3e98037cf41712c14d7ba') in 0.012662 seconds 
   Import took 0.018195 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 2530.028296 seconds.
+  path: Assets/Quiddish Game Assets/Models/Broomstick
+  artifactKey: Guid(e573fdc203101ec4bac03f4ad8e9b2a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quiddish Game Assets/Models/Broomstick using Guid(e573fdc203101ec4bac03f4ad8e9b2a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7843614046b79eb128b3a56f772e4b2a') in 0.008647 seconds 
+  Import took 0.126549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.593292 seconds.
+  path: Assets/Quiddish Game Assets/Models/Broomstick/Broomstick.FBX
+  artifactKey: Guid(11bbfdb1ccedf0b48a8a39d6b1f410e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quiddish Game Assets/Models/Broomstick/Broomstick.FBX using Guid(11bbfdb1ccedf0b48a8a39d6b1f410e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f58e32af88452b06ada2478a6665ad3') in 1.397833 seconds 
+  Import took 1.412264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 366.207442 seconds.
+  path: Assets/Quiddish Game Assets/Models/Broomstick/Broomstick_WithFlag.FBX
+  artifactKey: Guid(5b1ddd4c431c5f345b7bb7b205a5edb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quiddish Game Assets/Models/Broomstick/Broomstick_WithFlag.FBX using Guid(5b1ddd4c431c5f345b7bb7b205a5edb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdc6ac2184544df8cf8fe5a99eea15e7') in 0.145252 seconds 
+  Import took 0.156081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.581697 seconds.
+  path: Assets/Quiddish Game Assets/Materials/BroomstickMat
+  artifactKey: Guid(e3e444f643a1e7145a7f2010dbbf9059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quiddish Game Assets/Materials/BroomstickMat using Guid(e3e444f643a1e7145a7f2010dbbf9059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f3d53444ae01f5bea00ba8c603cef81') in 0.002061 seconds 
+  Import took 0.008436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 155.108353 seconds.
+  path: Assets/_Scenes/SunTemple_Grabbing.unity
+  artifactKey: Guid(b6564e19d31ea4fa88fb359f98cbf8ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Scenes/SunTemple_Grabbing.unity using Guid(b6564e19d31ea4fa88fb359f98cbf8ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29018e3dd44eebcb071aee9452b7aa95') in 0.047316 seconds 
+  Import took 0.088198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 186.713100 seconds.
+  path: Assets/_Scenes/SunTemple_VRHands.unity
+  artifactKey: Guid(9e04b0fb87114417c87daa7f0ba4ebfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Scenes/SunTemple_VRHands.unity using Guid(9e04b0fb87114417c87daa7f0ba4ebfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b3c3a20ad27c613655aaad1272fb872') in 0.002594 seconds 
+  Import took 0.011950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.912578 seconds.
+  path: Assets/_Scenes/GameScene_Grabbing.unity
+  artifactKey: Guid(62ce4553cb5bb4d19ba6d8dae6707574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Scenes/GameScene_Grabbing.unity using Guid(62ce4553cb5bb4d19ba6d8dae6707574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dcc4e82e49c833c500b50eebc8263cd') in 0.007745 seconds 
+  Import took 0.013648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 293.649063 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce6a35c3cddc746e7501c0bd0ed6d4ce') in 0.173429 seconds 
+  Import took 0.183306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 176.620131 seconds.
+  path: Assets/XRI/Settings/Resources/InteractionLayerSettings.asset
+  artifactKey: Guid(69db7b1fe6e644178be877ab22da5dab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XRI/Settings/Resources/InteractionLayerSettings.asset using Guid(69db7b1fe6e644178be877ab22da5dab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c69d70d52e73520145fe6555914a5d1') in 0.063821 seconds 
+  Import took 0.072960 seconds .
+
