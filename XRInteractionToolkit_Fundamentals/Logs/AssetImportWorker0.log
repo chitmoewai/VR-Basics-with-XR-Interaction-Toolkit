@@ -22,100 +22,100 @@ AssetImportWorker0
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-50966
+49240
 Successfully changed project path to: /Users/chitmoewai/VR-Basics-with-XR-Interaction-Toolkit/XRInteractionToolkit_Fundamentals
 /Users/chitmoewai/VR-Basics-with-XR-Interaction-Toolkit/XRInteractionToolkit_Fundamentals
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 151.80 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 10.60 ms.
+Refreshing native plugins compatible for Editor in 91.92 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 6.95 ms.
 Initialize engine version: 2020.3.26f1 (7298b473bc1a)
 [Subsystems] Discovering subsystems at path /Applications/Unity/2020.3.26f1/Unity.app/Contents/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path /Users/chitmoewai/VR-Basics-with-XR-Interaction-Toolkit/XRInteractionToolkit_Fundamentals/Assets
 GfxDevice: creating device client; threaded=0
-2022-02-15 15:37:29.675 Unity[3208:118967] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 655 (low power)
-2022-02-15 15:37:29.675 Unity[3208:118967] Metal devices available: 1
-2022-02-15 15:37:29.675 Unity[3208:118967] 0: Intel(R) Iris(TM) Plus Graphics 655 (low power)
-2022-02-15 15:37:29.675 Unity[3208:118967] Using device Intel(R) Iris(TM) Plus Graphics 655 (low power)
+2022-02-16 08:23:47.753 Unity[1043:16073] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 655 (low power)
+2022-02-16 08:23:47.753 Unity[1043:16073] Metal devices available: 1
+2022-02-16 08:23:47.753 Unity[1043:16073] 0: Intel(R) Iris(TM) Plus Graphics 655 (low power)
+2022-02-16 08:23:47.753 Unity[1043:16073] Using device Intel(R) Iris(TM) Plus Graphics 655 (low power)
 Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 655
 Initialize mono
 Mono path[0] = '/Applications/Unity/2020.3.26f1/Unity.app/Contents/Managed'
 Mono path[1] = '/Applications/Unity/2020.3.26f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = '/Applications/Unity/2020.3.26f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56208
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56043
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /Applications/Unity/2020.3.26f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Registered in 0.002584 seconds.
+Registered in 0.004065 seconds.
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 71.80 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 62.52 ms, found 3 plugins.
 Preloading 1 native plugins for Editor in 0.32 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.749 seconds
+- Completed reload, in  0.713 seconds
 Domain Reload Profiling:
-	ReloadAssembly (749ms)
-		BeginReloadAssembly (54ms)
+	ReloadAssembly (713ms)
+		BeginReloadAssembly (51ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (604ms)
-			LoadAssemblies (55ms)
+		EndReloadAssembly (580ms)
+			LoadAssemblies (52ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (194ms)
+			SetupTypeCache (190ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (47ms)
-			SetupLoadedEditorAssemblies (259ms)
+			RebuildScriptCaches (44ms)
+			SetupLoadedEditorAssemblies (244ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (7ms)
+				InitializePlatformSupportModulesInManaged (5ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (72ms)
-				BeforeProcessingInitializeOnLoad (35ms)
-				ProcessInitializeOnLoadAttributes (113ms)
-				ProcessInitializeOnLoadMethodAttributes (32ms)
+				RefreshPlugins (63ms)
+				BeforeProcessingInitializeOnLoad (37ms)
+				ProcessInitializeOnLoadAttributes (104ms)
+				ProcessInitializeOnLoadMethodAttributes (34ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.011829 seconds.
+Registered in 0.011153 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 60.23 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 0.31 ms.
+Refreshing native plugins compatible for Editor in 59.10 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.40 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.442 seconds
+- Completed reload, in  1.412 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1443ms)
-		BeginReloadAssembly (165ms)
+	ReloadAssembly (1414ms)
+		BeginReloadAssembly (152ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
+			DisableScriptedObjects (5ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (30ms)
-		EndReloadAssembly (1215ms)
-			LoadAssemblies (116ms)
+			CreateAndSetChildDomain (25ms)
+		EndReloadAssembly (1194ms)
+			LoadAssemblies (119ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (370ms)
+			SetupTypeCache (367ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (81ms)
-			SetupLoadedEditorAssemblies (493ms)
+			RebuildScriptCaches (73ms)
+			SetupLoadedEditorAssemblies (482ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
+				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (61ms)
-				BeforeProcessingInitializeOnLoad (90ms)
-				ProcessInitializeOnLoadAttributes (320ms)
+				RefreshPlugins (60ms)
+				BeforeProcessingInitializeOnLoad (94ms)
+				ProcessInitializeOnLoadAttributes (308ms)
 				ProcessInitializeOnLoadMethodAttributes (16ms)
 				AfterProcessingInitializeOnLoad (1ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (7ms)
 Platform modules already initialized, skipping
-Validating Project structure ... 0.002246 seconds.
+Validating Project structure ... 0.015522 seconds.
 Shader import version has changed; will reimport all shaders...
-Upgrading shader files ...0.004712 seconds.
+Upgrading shader files ...0.082585 seconds.
 Application.AssetDatabase Initial Script Refresh Start
 RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
 RefreshProfiler: Total: 0.000ms
@@ -125,20 +125,20 @@ Application.AssetDatabase.Refresh End
 RefreshInfo: StopAssetImportingV2(ForceSynchronousImport) scanfilter: 
 RefreshProfiler: Total: 0.000ms
 Launching external process: /Applications/Unity/2020.3.26f1/Unity.app/Contents/Tools/UnityShaderCompiler
-Launched and connected shader compiler UnityShaderCompiler after 0.13 seconds
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
 Initializing Unity extensions:
-2022-02-15 15:37:34.434 Unity[3208:118967] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600000d67330 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
-2022-02-15 15:37:34.438 Unity[3208:118967] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600000d89880 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2022-02-16 08:23:52.156 Unity[1043:16073] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600000297410 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2022-02-16 08:23:52.159 Unity[1043:16073] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x60000027a300 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
 ========================================================================
 Worker process is ready to serve import requests
-Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 0.32 ms.
-Unloading 2364 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 260.5 MB.
-System memory in use after: 259.7 MB.
+Refreshing native plugins compatible for Editor in 0.74 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.37 ms.
+Unloading 2365 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 266.1 MB.
+System memory in use after: 265.3 MB.
 
-Unloading 135 unused Assets to reduce memory usage. Loaded Objects now: 2851.
-Total: 11.963418 ms (FindLiveObjects: 1.681091 ms CreateObjectMapping: 0.215564 ms MarkObjects: 9.543007 ms  DeleteObjects: 0.522168 ms)
+Unloading 151 unused Assets to reduce memory usage. Loaded Objects now: 2852.
+Total: 3.777557 ms (FindLiveObjects: 0.299101 ms CreateObjectMapping: 0.110769 ms MarkObjects: 2.897658 ms  DeleteObjects: 0.469099 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -152,58 +152,66 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Quiddish Game Assets/Scenes/QuiddishGameScene_XRRigSetup.unity
-  artifactKey: Guid(ea049ad1ed5bb4390b0315e03f31cd21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Quiddish Game Assets/Scenes/QuiddishGameScene_XRRigSetup.unity using Guid(ea049ad1ed5bb4390b0315e03f31cd21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cddac68408e360caf5e6c6faaccf916') in 0.033994 seconds 
-  Import took 0.042578 seconds .
+  path: Assets/Samples/XR Interaction Toolkit/2.0.0-pre.7/Default Input Actions/XRI Default Input Actions.inputactions
+  artifactKey: Guid(c348712bda248c246b8c49b3db54643f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/2.0.0-pre.7/Default Input Actions/XRI Default Input Actions.inputactions using Guid(c348712bda248c246b8c49b3db54643f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0eec886a2aa5cbdbdae664c6d119cdff') in 1.036092 seconds 
+  Import took 1.046149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 150.762037 seconds.
+  path: Assets/_Scripts/HandsControllerScript.cs
+  artifactKey: Guid(5511da15c7e464144bd7c7585ef4544f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Scripts/HandsControllerScript.cs using Guid(5511da15c7e464144bd7c7585ef4544f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ec037ab90474c08bfb478d24e358e75') in 0.415126 seconds 
+  Import took 0.424202 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.005582 seconds.
+Registered in 0.005595 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for OSXStandalone target not found
 Refreshing native plugins compatible for Editor in 0.88 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 0.49 ms.
-2022-02-15 15:46:06.079 Unity[3208:118967] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600000d7c620 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Preloading 1 native plugins for Editor in 0.44 ms.
+2022-02-16 08:38:10.256 Unity[1043:16073] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600000280620 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
 Mono: successfully reloaded assembly
-- Completed reload, in  1.375 seconds
+- Completed reload, in  1.594 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1377ms)
-		BeginReloadAssembly (199ms)
+	ReloadAssembly (1597ms)
+		BeginReloadAssembly (210ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (12ms)
+			DisableScriptedObjects (11ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (110ms)
-		EndReloadAssembly (1109ms)
-			LoadAssemblies (87ms)
+			CreateAndSetChildDomain (120ms)
+		EndReloadAssembly (1317ms)
+			LoadAssemblies (98ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (378ms)
+			SetupTypeCache (468ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (58ms)
-			SetupLoadedEditorAssemblies (437ms)
+			RebuildScriptCaches (81ms)
+			SetupLoadedEditorAssemblies (498ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (134ms)
-				ProcessInitializeOnLoadAttributes (284ms)
-				ProcessInitializeOnLoadMethodAttributes (11ms)
+				BeforeProcessingInitializeOnLoad (147ms)
+				ProcessInitializeOnLoadAttributes (333ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
 				AfterProcessingInitializeOnLoad (2ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (7ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
 Platform modules already initialized, skipping
 Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.82 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 0.34 ms.
-Unloading 2314 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 249.7 MB.
-System memory in use after: 249.6 MB.
+Refreshing native plugins compatible for Editor in 0.95 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.32 ms.
+Unloading 2315 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 258.4 MB.
+System memory in use after: 258.3 MB.
 
-Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2855.
-Total: 3.608846 ms (FindLiveObjects: 0.222994 ms CreateObjectMapping: 0.096247 ms MarkObjects: 3.055540 ms  DeleteObjects: 0.233045 ms)
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2856.
+Total: 3.607304 ms (FindLiveObjects: 0.218490 ms CreateObjectMapping: 0.093649 ms MarkObjects: 3.076511 ms  DeleteObjects: 0.217551 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -218,26 +226,41 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 873.281472 seconds.
-  path: Assets/Sun_Temple/Scenes/DemoScene_PostProcessProfile.asset
-  artifactKey: Guid(78254f968cc460e408f81c76abc84db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sun_Temple/Scenes/DemoScene_PostProcessProfile.asset using Guid(78254f968cc460e408f81c76abc84db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '250c2a7076cdf4ad55298c25c4650701') in 1.593793 seconds 
-  Import took 1.630626 seconds .
+  Time since last request: 702.221563 seconds.
+  path: Assets/_Scripts/HandsControllerScript.cs
+  artifactKey: Guid(5511da15c7e464144bd7c7585ef4544f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Scripts/HandsControllerScript.cs using Guid(5511da15c7e464144bd7c7585ef4544f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9afbd26934d963513e2fee4d17a24473') in 0.010238 seconds 
+  Import took 0.014918 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 3.549528 seconds.
-  path: Assets/Sun_Temple/Scenes/PrefabBuildingOverview.unity
-  artifactKey: Guid(0341178c4e71bbd4c8d5d119903d6f4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sun_Temple/Scenes/PrefabBuildingOverview.unity using Guid(0341178c4e71bbd4c8d5d119903d6f4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a029a1fb46d032b27c22186da8bd9c65') in 0.004278 seconds 
-  Import took 0.010494 seconds .
+  Time since last request: 34.724466 seconds.
+  path: Assets/CustomHands/Animations/LeftHandAnimationController.controller
+  artifactKey: Guid(d40f63c3f09590c48911780775dd64e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomHands/Animations/LeftHandAnimationController.controller using Guid(d40f63c3f09590c48911780775dd64e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ef80701e24e271493096f9c33d58bdb') in 0.110132 seconds 
+  Import took 0.118115 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1303.345755 seconds.
-  path: Assets/Scenes/SunTemple_XRRigSetUp.unity
+  Time since last request: 117.979807 seconds.
+  path: Assets/_Scenes/SunTemple_XRRigSetUp.unity
   artifactKey: Guid(5b11a7b1c46694e87bbb0bc5523c253a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SunTemple_XRRigSetUp.unity using Guid(5b11a7b1c46694e87bbb0bc5523c253a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.013014 seconds  code(4) message(Build asset version error: assets/scenes/suntemple_xrrigsetup.unity in SourceAssetDB has modification time of '2022-02-11T09:30:23Z' while content on disk has modification time of '2022-02-15T09:14:00Z')
-  ERROR: Build asset version error: assets/scenes/suntemple_xrrigsetup.unity in SourceAssetDB has modification time of '2022-02-11T09:30:23Z' while content on disk has modification time of '2022-02-15T09:14:00Z'
-  Import took 0.050396 seconds .
+Start importing Assets/_Scenes/SunTemple_XRRigSetUp.unity using Guid(5b11a7b1c46694e87bbb0bc5523c253a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b1592b332c0decfd85de2f942134213') in 0.001595 seconds 
+  Import took 0.008977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.866239 seconds.
+  path: Assets/_Scenes/SunTemple_VRHands.unity
+  artifactKey: Guid(9e04b0fb87114417c87daa7f0ba4ebfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Scenes/SunTemple_VRHands.unity using Guid(9e04b0fb87114417c87daa7f0ba4ebfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80a9a32e506dcb94afe3b14e411fb1cc') in 0.001198 seconds 
+  Import took 0.005570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.027389 seconds.
+  path: Assets/_Scenes/SunTemple_XRRigSetUp.unity
+  artifactKey: Guid(5b11a7b1c46694e87bbb0bc5523c253a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Scenes/SunTemple_XRRigSetUp.unity using Guid(5b11a7b1c46694e87bbb0bc5523c253a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b500d9a6bac3e98037cf41712c14d7ba') in 0.012662 seconds 
+  Import took 0.018195 seconds .
 
